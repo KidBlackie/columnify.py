@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "columnify", "columnify\columnify.pyproj", "{EA6253F5-8B34-4F05-B47E-C7E30893E90F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA6253F5-8B34-4F05-B47E-C7E30893E90F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA6253F5-8B34-4F05-B47E-C7E30893E90F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0793C7B6-1F7C-48FE-BD7F-60B3604F8453}
+	EndGlobalSection
+EndGlobal
